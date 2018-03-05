@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.apache.felix.karaf.shell.console-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/org.apache.felix.karaf.shell.console-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/org.apache.felix.karaf.shell.console-1.0.0.jar!/" recursive="false" />
+  </library>
+</component>
